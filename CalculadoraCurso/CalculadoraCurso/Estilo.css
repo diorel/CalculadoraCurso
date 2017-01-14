@@ -1,0 +1,21 @@
+﻿body 
+{
+    background-color:aqua;
+    
+}
+h1
+{
+   color:red;
+}
+
+#SumaButton
+{
+    background-color:peru;
+    color:white;
+}
+#RestaButton
+{
+    background-color:blue;
+    color:white;
+}
+
